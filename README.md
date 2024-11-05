@@ -1,17 +1,20 @@
-## Hi there 👋
+# Christian 8-)
 
-<!--
-**ChristianFabok/ChristianFabok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gitstar] (https://octodex.github.com/total-eclipse-of-the-octocat/)
 
-Here are some ideas to get you started:
+[Businesssite](https://www.fabokdesign.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-11
+## Working
+
+- Python Developer
+
+## Learning
+
+- by DCI
+
+## Skills
+
+- Mediator & Coach
+- Master craftsman
+- business economist
+- HRRefernet
